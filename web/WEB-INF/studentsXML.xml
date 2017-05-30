@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="98765" class="SE0662">
+        <lastname>
+            Kieu
+        </lastname>
+        <middlename>
+            T.
+        </middlename>
+        <firstname>
+            Kieu
+        </firstname>
+        <sex>
+            1
+        </sex>
+        <password>
+            56789
+        </password>
+        <address>
+            45 Nguyen Van A
+        </address>
+        <status>
+            Studying
+        </status>
+    </student>
+    <student id="namlai000" class="SE1062">
+        <lastname>
+            Remi
+        </lastname>
+        <middlename>
+            vas Normandy
+        </middlename>
+        <fistname>
+            Zorah
+        </fistname>
+        <sex>
+            1
+        </sex>
+        <password>
+            123456
+        </password>
+        <address>
+            88 BBBBBBBBB a
+        </address>
+        <status>
+            Dropout
+        </status>
+    </student>
+    <student id="namlai001" class="SE1062">
+        <lastname>
+            Remi
+        </lastname>
+        <middlename>
+            vas Normandy
+        </middlename>
+        <fistname>
+            Zorah 2
+        </fistname>
+        <sex>
+            1
+        </sex>
+        <password>
+            123456
+        </password>
+        <address>
+            88 BBBBBBBBB a
+        </address>
+        <status>
+            Dropout
+        </status>
+    </student>
+    <student id="namlai002" class="SE1062">
+        <lastname>
+            Remi
+        </lastname>
+        <middlename>
+            vas Normandy
+        </middlename>
+        <fistname>
+            Zorah
+        </fistname>
+        <sex>
+            1
+        </sex>
+        <password>
+            123456
+        </password>
+        <address>
+            88 BBBBBBBBB a
+        </address>
+        <status>
+            Dropout
+        </status>
+    </student>
+</students>
